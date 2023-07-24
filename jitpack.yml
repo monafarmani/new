@@ -1,3 +1,3 @@
 install:
-  FILE="-Dfile=core-0.0.1.aar"
-  mvn install:install-file $FILE -DgroupId=name.project.mona.sdk -DartifactId=core -Dversion=0.0.1-Dpackaging=aar -DpomFile=core-0.0.1.pom
+FILE="-Dfile=core-0.0.1.aar"
+mvn install:install-file $FILE -DgroupId=name.project.mona.sdk -DartifactId=core -Dversion=0.0.1 -Dpackaging=aar -DpomFile=pom.xml
