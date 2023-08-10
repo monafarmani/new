@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>name.project.mona.sdk</groupId>
   <artifactId>core</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
